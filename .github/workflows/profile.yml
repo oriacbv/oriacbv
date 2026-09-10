@@ -28,7 +28,7 @@ jobs:
 
       - name: Regenerar els SVG
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python today.py
 
       - name: Publicar els canvis
