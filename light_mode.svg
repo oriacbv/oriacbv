@@ -69,7 +69,7 @@
 <text class="row" style="animation-delay:0.430s" x="374" y="154.0" font-size="14.5" fill="#0550ae">Kernel:</text>
 <text class="row" style="animation-delay:0.430s" x="560" y="154.0" font-size="14.5" fill="#1f2328">Go 1.23</text>
 <text class="row" style="animation-delay:0.475s" x="374" y="174.0" font-size="14.5" fill="#0550ae">Uptime:</text>
-<text class="row" style="animation-delay:0.475s" x="560" y="174.0" font-size="14.5" fill="#1f2328">30 anys, 5 mesos, 10 dias</text>
+<text class="row" style="animation-delay:0.475s" x="560" y="174.0" font-size="14.5" fill="#1f2328">30 anys, 5 mesos, 11 dias</text>
 <text class="row" style="animation-delay:0.520s" x="374" y="194.0" font-size="14.5" fill="#0550ae">IDE:</text>
 <text class="row" style="animation-delay:0.520s" x="560" y="194.0" font-size="14.5" fill="#1f2328">VS Code · Neovim quan ningú mira</text>
 <text class="row" style="animation-delay:0.610s" x="374" y="234.0" font-size="14.5" fill="#0550ae">Llenguatges.Codi:</text>
