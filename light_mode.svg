@@ -69,7 +69,7 @@
 <text class="row" style="animation-delay:0.430s" x="374" y="154.0" font-size="14.5" fill="#0550ae">Kernel:</text>
 <text class="row" style="animation-delay:0.430s" x="560" y="154.0" font-size="14.5" fill="#1f2328">Go 1.23</text>
 <text class="row" style="animation-delay:0.475s" x="374" y="174.0" font-size="14.5" fill="#0550ae">Uptime:</text>
-<text class="row" style="animation-delay:0.475s" x="560" y="174.0" font-size="14.5" fill="#1f2328">30 anys, 7 mesos, 6 dias</text>
+<text class="row" style="animation-delay:0.475s" x="560" y="174.0" font-size="14.5" fill="#1f2328">30 anys, 7 mesos, 7 dias</text>
 <text class="row" style="animation-delay:0.520s" x="374" y="194.0" font-size="14.5" fill="#0550ae">IDE:</text>
 <text class="row" style="animation-delay:0.520s" x="560" y="194.0" font-size="14.5" fill="#1f2328">VS Code · Neovim quan ningú mira</text>
 <text class="row" style="animation-delay:0.610s" x="374" y="234.0" font-size="14.5" fill="#0550ae">Llenguatges.Codi:</text>
@@ -89,12 +89,12 @@
 <text class="row" style="animation-delay:1.015s" x="374" y="414.0" font-size="14.5" fill="#0550ae">GitHub.Repos:</text>
 <text class="row" style="animation-delay:1.015s" x="560" y="414.0" font-size="14.5" fill="#1f2328">1 · 0 de tercers</text>
 <text class="row" style="animation-delay:1.060s" x="374" y="434.0" font-size="14.5" fill="#0550ae">GitHub.Commits:</text>
-<text class="row" style="animation-delay:1.060s" x="560" y="434.0" font-size="14.5" fill="#1f2328">0</text>
+<text class="row" style="animation-delay:1.060s" x="560" y="434.0" font-size="14.5" fill="#1f2328">1</text>
 <text class="row" style="animation-delay:1.105s" x="374" y="454.0" font-size="14.5" fill="#0550ae">GitHub.Estrelles:</text>
 <text class="row" style="animation-delay:1.105s" x="560" y="454.0" font-size="14.5" fill="#1f2328">0</text>
 <text class="row" style="animation-delay:1.150s" x="374" y="474.0" font-size="14.5" fill="#0550ae">GitHub.Seguidors:</text>
 <text class="row" style="animation-delay:1.150s" x="560" y="474.0" font-size="14.5" fill="#1f2328">0</text>
 <text class="row" style="animation-delay:1.195s" x="374" y="494.0" font-size="14.5" fill="#0550ae">GitHub.Línies:</text>
-<text class="row" style="animation-delay:1.195s" x="560" y="494.0" font-size="14.5" fill="#1f2328">0 (0++, 0--)</text>
+<text class="row" style="animation-delay:1.195s" x="560" y="494.0" font-size="14.5" fill="#1f2328">-11 (0++, 11--)</text>
 <rect class="cursor" x="374" y="507.0" width="9" height="15" fill="#00875a"/>
 </svg>
